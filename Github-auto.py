@@ -1,0 +1,40 @@
+#import the webdriver from selenium 
+from selenium import webdriver
+
+#declare a driver variable
+driver = webdriver.Chrome()
+
+#make a request on the https://github.com/login link
+driver.get('https://github.com/login')
+
+#get the username field using xpath
+Username = driver.find_element_by_xpath('//*[@id="login_field"]')
+
+#send usrename value in the username field
+Username.send_keys('shivanshu27')
+
+#get the password field using xpath
+password = driver.find_element_by_xpath('//*[@id="password"]')
+
+#send password value in password field
+password.send_keys('27shivik')
+
+#get the login button using xpath
+loginbtn = driver.find_element_by_xpath('//*[@id="login"]/form/div[4]/input[9]')
+
+#request for the click on login button
+loginbtn.click()
+
+#get the create button using xpath
+create = driver.find_element_by_xpath('/html/body/div[1]/header/div[6]/details/summary')
+
+#request for the click on create button
+create.click()
+
+#get new repositary button using xpath
+new = driver.find_element_by_xpath('/html/body/div[1]/header/div[6]/details/details-menu/a[1]')
+
+#requset for the click on the new repositary button
+new.click()
+
+
