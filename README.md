@@ -6,7 +6,7 @@ This is Repo of github automation.
 <strong>2. Chrome webdriver</strong><br>
 
 # How To Get Selenium
-Simply just do "pip install selenium" in your commande line prompt(make sure you have installed the python in your computer)
+Simply just do <strong>"pip install selenium"</strong> in your commande line prompt (make sure you have installed the python in your computer)
 
 # How To Get Chrome Webdriver
 <h3>=>To get chrome web driver you have to install chocolatey package manager</h3>
@@ -31,9 +31,9 @@ Simply just do "pip install selenium" in your commande line prompt(make sure you
 <li>write<strong>choco install chromedrive r</strong> and press enter</li>
 
 <li>It will get download</li>
-
-<li>How ever if you have any problem you can go to this link for help: <link>https://chocolatey.org/docs/installation#more-install-options</link></li>
 </ol>
+<p>How ever if you have any problem you can go to this link for help: <link>https://chocolatey.org/docs/installation#more-install-options</link></p>
+
 
 # And you are good to go!!!! 
 
