@@ -12,11 +12,12 @@ Simply just do "pip install selenium" in your commande line prompt(make sure you
 <h3>=>To get chrome web driver you have to install chocolatey package manager</h3>
 
 <h5>=>Steps to Install chocolatey/choco on Windows 10</h5>
-<li>Click Start and type<strong>powershell</strong></li>
+<ol>
+<li>Click Start and type <strong>powershell</strong></li>
 
-<li>Right-click Windows Powershell and choose<strong>Run as Administrator</strong> (make sure it is on administration mode)</li>
+<li>Right-click Windows Powershell and choose <strong>Run as Administrator</strong> (make sure it is on administration mode)</li>
 
-<li>Paste the following link command into Powershell and press enter:<strong>Set-ExecutionPolicy Bypass -Scope Process -Force; `iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))</strong></li>
+<li>Paste the following link command into Powershell and press enter: <strong>Set-ExecutionPolicy Bypass -Scope Process -Force; `iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))</strong></li>
 
 <li>Answer Yes when prompted</li>
 
@@ -37,7 +38,7 @@ Simply just do "pip install selenium" in your commande line prompt(make sure you
 # And you are good to go!!!! 
 
 Make sure you put this script file in very conveniant drictory of system So, you dont have to write long cd commands to choose the directory.<br>
-Go to your script directory location in cmd and just write this command <strong>python.exe Github-auto.py</strong> and hit the enter button.<br>
+Go to your script directory location in cmd and just write this command <strong>python.exe  Github-auto.py</strong> and hit the enter button.<br>
 <strong>BOOM!! You have just created a new repo with just sinle command line!!</strong><br>
   
  # Happy Automation!!!!! :)
