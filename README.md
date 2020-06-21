@@ -53,7 +53,7 @@ Make sure you put this script file in very conveniant drictory of system So, you
 
 <img src="img/Scripts Run.png">
 
-Go to your script directory location in cmd and just write this command <strong>python.exe  Github-auto.py</strong> and hit the enter button.<br>
-<strong>BOOM!! You have just created a new repo with just sinle command line!!</strong><br>
+Go to your script directory location in cmd and just write this command <strong>"python.exe  Github-auto.py"</strong> and hit the enter button.<br>
+<strong>BOOM!! You have just created a new github repo with just single command line!!</strong><br>
   
   <h1>Happy Automation!!!!! :)</h1>
