@@ -1,6 +1,6 @@
 # GitHub-Automation
 This is the repository of Github Automation using python.<br>
-<strong>Do you want to make Github repositary with just single command line. Well, then you are at right place. Just follow the instruction given below</strong><br>
+<strong>Do you want to make Github repository with just single command line. Well, then you are at right place. Just follow the instruction given below</strong><br>
 
 # Let's Start
 <ol>
