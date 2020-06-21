@@ -1,5 +1,14 @@
 # GitHub-Automation
-This is Repo of github automation.
+This is the repositary of Gihub Automation using python.
+<strong>Do you want to make Github repositary with just single command line. Well, then you are at right place. Just follow the instruction given below</strong>
+
+# Let's Start
+<ol>
+  <li>Clone the repo in your machine</li>
+  <li>Write Your Github User Name in the place of UserName</li>
+  <li>Write Your Github password in the place of Password</li>
+  <li>Save the script</li>
+ </ol>
 
 # Things You Need For this automation
 <strong>1. Selenium</strong><br>
@@ -38,6 +47,9 @@ Simply just do <strong>"pip install selenium"</strong> in your commande line pro
 # And you are good to go!!!! 
 
 Make sure you put this script file in very conveniant drictory of system So, you dont have to write long cd commands to choose the directory.<br>
+
+<img src="img/Scripts Run.png">
+
 Go to your script directory location in cmd and just write this command <strong>python.exe  Github-auto.py</strong> and hit the enter button.<br>
 <strong>BOOM!! You have just created a new repo with just sinle command line!!</strong><br>
   
