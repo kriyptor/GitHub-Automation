@@ -11,13 +11,13 @@ driver.get('https://github.com/login')
 Username = driver.find_element_by_xpath('//*[@id="login_field"]')
 
 #send usrename value in the username field
-Username.send_keys('shivanshu27')
+Username.send_keys('Your UserName')
 
 #get the password field using xpath
 password = driver.find_element_by_xpath('//*[@id="password"]')
 
 #send password value in password field
-password.send_keys('27shivik')
+password.send_keys('Your Password')
 
 #get the login button using xpath
 loginbtn = driver.find_element_by_xpath('//*[@id="login"]/form/div[4]/input[9]')
