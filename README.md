@@ -8,14 +8,17 @@ This is the repository of Github Automation using python.<br>
   <li>Save the script in a convenient location</li>
   <li>Write Your Github User Name in the place of UserName</li>
   <li>Write Your Github password in the place of Password <img src="img/userinfo.png"></li>
-  <li>Write path of dirver loaction in executable_path <img scr="img/loc.png"></li>
+  <li>Write path of dirver loaction in executable_path <img src="img/loc.png"></li>
+  <li>Save The file</li>
  </ol>
+
 
 
 # Things You Need For this automation
 <strong>1. Selenium</strong><br>
 <strong>2. Chrome webdriver</strong><br>
 <strong>3. Firefox webdriver</strong><br>
+
 
 # How To Get Selenium
 Simply just do <strong>"pip install selenium"</strong> in your commande line prompt (make sure you have installed the python in your computer)
