@@ -44,7 +44,7 @@ if(ch==1):
 
 else:
 
-#declare a driver variable
+#declare a driver variable along with driver location
     driver = webdriver.Firefox(executable_path="C:/Users/sudha/geckodriver.exe")
 
 #make a request on the https://github.com/login link
@@ -80,4 +80,4 @@ else:
 #requset for the click on the new repositary button
     new.click()
 
-# ------End------
+# ------End-------
