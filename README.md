@@ -1,6 +1,6 @@
 # GitHub-Automation
-This is the repositary of Gihub Automation using python.
-<strong>Do you want to make Github repositary with just single command line. Well, then you are at right place. Just follow the instruction given below</strong>
+This is the repository of Github Automation using python.<br>
+<strong>Do you want to make Github repository with just single command line. Well, then you are at right place. Just follow the instruction given below</strong><br>
 
 # Let's Start
 <ol>
@@ -9,6 +9,7 @@ This is the repositary of Gihub Automation using python.
   <li>Write Your Github password in the place of Password</li>
   <li>Save the script</li>
  </ol>
+<img src="img/userinfo.png">
 
 # Things You Need For this automation
 <strong>1. Selenium</strong><br>
@@ -16,6 +17,8 @@ This is the repositary of Gihub Automation using python.
 
 # How To Get Selenium
 Simply just do <strong>"pip install selenium"</strong> in your commande line prompt (make sure you have installed the python in your computer)
+
+<img src="img/pip.png">
 
 # How To Get Chrome Webdriver
 <h3>=>To get chrome web driver you have to install chocolatey package manager</h3>
@@ -50,7 +53,7 @@ Make sure you put this script file in very conveniant drictory of system So, you
 
 <img src="img/Scripts Run.png">
 
-Go to your script directory location in cmd and just write this command <strong>python.exe  Github-auto.py</strong> and hit the enter button.<br>
-<strong>BOOM!! You have just created a new repo with just sinle command line!!</strong><br>
+Go to your script directory location in cmd and just write this command <strong>"python.exe  Github-auto.py"</strong> and hit the enter button.<br>
+<strong>BOOM!! You have just created a new github repo with just single command line!!</strong><br>
   
- # Happy Automation!!!!! :)
+  <h1>Happy Automation!!!!! :)</h1>
